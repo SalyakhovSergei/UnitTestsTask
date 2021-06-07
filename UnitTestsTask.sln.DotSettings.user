@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cdcfd71b_002Dc06c_002D4861_002Da6cc_002Dbeb104e34f04/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AdditionalMustReturnCorrectSum" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C5415A68-70EC-4427-92A1-96A69A98C250::.NETFramework,Version=v4.7.2::UnitTestsTask.Tests.CalculatorTests.AdditionalMustReturnCorrectSum&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C5415A68-70EC-4427-92A1-96A69A98C250::.NETFramework,Version=v4.7.2::UnitTestsTask.Tests.CalculatorTests.SubstractionMustReturnCorrectValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C5415A68-70EC-4427-92A1-96A69A98C250::.NETFramework,Version=v4.7.2::UnitTestsTask.Tests.CalculatorTests.MultiplicationMustReturnCorrectValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C5415A68-70EC-4427-92A1-96A69A98C250::.NETFramework,Version=v4.7.2::UnitTestsTask.Tests.CalculatorTests.DivisionMustReturnCorrectValue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

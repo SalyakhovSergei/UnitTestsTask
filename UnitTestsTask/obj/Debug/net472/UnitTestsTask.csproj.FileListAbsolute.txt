@@ -1,0 +1,9 @@
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net472\UnitTestsTask.exe.config
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net472\UnitTestsTask.exe
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net472\UnitTestsTask.pdb
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net472\UnitTestsTask.csproj.AssemblyReference.cache
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net472\UnitTestsTask.AssemblyInfoInputs.cache
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net472\UnitTestsTask.AssemblyInfo.cs
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net472\UnitTestsTask.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net472\UnitTestsTask.exe
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net472\UnitTestsTask.pdb

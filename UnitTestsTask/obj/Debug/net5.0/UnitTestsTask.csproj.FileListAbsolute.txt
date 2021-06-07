@@ -1,0 +1,16 @@
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net5.0\UnitTestsTask.exe
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net5.0\UnitTestsTask.deps.json
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net5.0\UnitTestsTask.runtimeconfig.json
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net5.0\UnitTestsTask.runtimeconfig.dev.json
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net5.0\UnitTestsTask.dll
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net5.0\ref\UnitTestsTask.dll
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\bin\Debug\net5.0\UnitTestsTask.pdb
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net5.0\UnitTestsTask.csproj.AssemblyReference.cache
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net5.0\UnitTestsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net5.0\UnitTestsTask.AssemblyInfoInputs.cache
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net5.0\UnitTestsTask.AssemblyInfo.cs
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net5.0\UnitTestsTask.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net5.0\UnitTestsTask.dll
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net5.0\ref\UnitTestsTask.dll
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net5.0\UnitTestsTask.pdb
+C:\Users\Анатолий\RiderProjects\UnitTestsTask\UnitTestsTask\obj\Debug\net5.0\UnitTestsTask.genruntimeconfig.cache
